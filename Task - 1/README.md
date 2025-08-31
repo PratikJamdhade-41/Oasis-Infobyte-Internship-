@@ -11,15 +11,6 @@ Perform a network scan using **Nmap** to identify open ports, running services, 
 
 ---
 
-
-## 🎬 Demo Video
-
-[![Watch the demo](https://img.youtube.com/vi/GZys-XZ-h64/0.jpg)](https://youtu.be/GZys-XZ-h64)
-
-🔗 [Click here to watch the video on YouTube](https://youtu.be/GZys-XZ-h64)
-
----
-
 ## 🧪 Command Executed
 ```bash
 nmap -sS -sV -O -oN nmap_results.txt 192.168.1.19
