@@ -17,9 +17,3 @@ The goal is to set up a basic firewall using UFW (Uncomplicated Firewall) on a L
    sudo ufw enable
 
 ---
-   
-## 🎬 Demo Video
-
-[![Watch the demo](https://img.youtube.com/vi/6f3k9V46h-M/0.jpg)](https://youtu.be/6f3k9V46h-M)
-
-🔗 [Click here to watch the video on YouTube](https://youtu.be/6f3k9V46h-M)
